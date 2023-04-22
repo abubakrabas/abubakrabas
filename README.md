@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel Framework , Odoo technical
 - 💞️ I’m looking to collaborate on world wide companies and in Artificial Intelligance Fields
 - 📫 How to reach me call me on +249929964682
-- on LinkedIn : https://www.linkedin.com/in/abubaker-abbas-a88a60112
+- on LinkedIn : https://www.linkedin.com/in/abubaker-abbas-ahmed
 - on twitter : @prince_bakry
 
 
